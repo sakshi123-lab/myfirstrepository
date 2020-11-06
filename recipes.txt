@@ -6,5 +6,8 @@ pasta
 maggie
 chicken fry
 
+beans
+pizza
+
 
 ...thankyou :)
